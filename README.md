@@ -45,8 +45,4 @@ coordination, and client relations.
 - 🔧 **IoT Capstone Project** — Coming Soon (IOTP302)
 - 💻 More projects coming soon...
 
----
 
-## 📊 GitHub Stats
-
-![Diyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyaamuhammed&show_icons=true&theme=teal)
