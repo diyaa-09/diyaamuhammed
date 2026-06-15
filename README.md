@@ -1,6 +1,6 @@
 # Hi, I'm Diyaa Muhammed 👋
 
-🎓 Final-year BICTIoT Student @ Durban University of Technology  
+🎓 Third-year BICTIoT Student @ Durban University of Technology  
 📍 Durban, KwaZulu-Natal, South Africa  
 📧 diyaaparbhoo09@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/diyaa-muhammed-2ab928388/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkN8p0NuwTNuBj6pBDqVvcw%3D%3D 
